@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentSample1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_intent_first">IntentSample1</string>
+
+    <string-array name="picture_name">
+        <item>Koala</item>
+        <item>Penguins</item>
+        <item>Tulips</item>
+    </string-array>
+
+</resources>
